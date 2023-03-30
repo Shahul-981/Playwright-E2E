@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_sec_e07ef222fe18f1b43430eb5704226509",
+      "value": "PracticeMan%7C1680003767%7CTYYPsbJb6hjbNzDWi7MX9vZKpk3slmQY6WJfGFMPpWh%7C084a2ad01a334efb2f1af221e028f590eac5b87ec028d317511c9952e897661f",
+      "domain": "practice.automationbro.com",
+      "path": "/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wordpress_sec_e07ef222fe18f1b43430eb5704226509",
+      "value": "PracticeMan%7C1680003767%7CTYYPsbJb6hjbNzDWi7MX9vZKpk3slmQY6WJfGFMPpWh%7C084a2ad01a334efb2f1af221e028f590eac5b87ec028d317511c9952e897661f",
+      "domain": "practice.automationbro.com",
+      "path": "/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wp_wpfileupload_e07ef222fe18f1b43430eb5704226509",
+      "value": "KTdkhkEF4cMO2M8ScEjGj4GpX6Zs6ez5",
+      "domain": "practice.automationbro.com",
+      "path": "/",
+      "expires": 1680003761.417631,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_or",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1714390964.730042,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_r3d",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1680090164,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tk_lr",
+      "value": "%22%22",
+      "domain": ".automationbro.com",
+      "path": "/",
+      "expires": 1711366964,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_logged_in_e07ef222fe18f1b43430eb5704226509",
+      "value": "PracticeMan%7C1680003767%7CTYYPsbJb6hjbNzDWi7MX9vZKpk3slmQY6WJfGFMPpWh%7C1f1f882f6e4b1cd91af6a25a3c5b1ae043052a466b0fec4338938238e12c26d9",
+      "domain": "practice.automationbro.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://practice.automationbro.com",
+      "localStorage": [
+        {
+          "name": "wc_cart_hash_f6e6cf813b69c04a964ff8620d40cb80",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
